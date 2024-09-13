@@ -29,7 +29,7 @@ It provides functionalities for user authentication, candidate management, and v
 - POST /login: Login a user.
 
 
-- Candidates
+##  Candidates
 
 - Get Candidates
 - GET /candidates: Get the list of candidates.
@@ -44,7 +44,7 @@ It provides functionalities for user authentication, candidate management, and v
 - DELETE /candidates/:id: Delete a candidate by ID (Admin only).
 
 
-- Voting
+##  Voting
 
 - Get Vote Count
 - GET /candidates/vote/count: Get the count of votes for each candidate.
@@ -52,7 +52,7 @@ It provides functionalities for user authentication, candidate management, and v
 - Vote for Candidate
 - POST /candidates/vote/:id: Vote for a candidate (User only).
 
-- User Profile
+##  User Profile
 
 - Get Profile
 - GET /users/profile: Get user profile information.
