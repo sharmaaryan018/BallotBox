@@ -20,7 +20,7 @@ It provides functionalities for user authentication, candidate management, and v
 
 ## API Endpoints
 
-# Authentication
+## Authentication
 
 - Sign Up
 - POST /signup: Sign up a user.
